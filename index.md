@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## Henrique Nunes
 
 <img class="profile-picture" src="FB_IMG_1611674150846.jpg">
 
