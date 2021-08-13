@@ -2,9 +2,6 @@
 layout: default
 ---
 
-favicon: true
-favicon_location: "favicon.ico"
-
 ## Sobre mim
 
 <img class="profile-picture" src="FB_IMG_1611674150846.jpg">
