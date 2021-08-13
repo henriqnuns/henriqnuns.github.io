@@ -6,40 +6,14 @@ layout: default
 
 <img class="profile-picture" src="FB_IMG_1611674150846.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Olá, seja muito bem-vindo! Eu sou o Henrique, tenho 21 anos e sou graduando do curso de Licenciatura em Letras - Português/Inglês da Universidade Federal do Rio Grande do Sul. Me interesso principalmente na área da Teoria Literária e da Literatura Comparada, sobretudo nos estudos da literatura gótica e do horror.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
-## Research Interest
+## Experiência
+Set. 2018 - Out. 2019
+**Colégio de Aplicação da UFRGS (CAp)**
+Professor de Inglês das turmas do terceiro e sétimo ano do fundamental, sob supervisão do Programa Institucional de Bolsas de Iniciação à Docência (PIBID) da UFRGS.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
-
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+## Projetos de extensão
+**A neutralidade de gênero no Português e no Inglês (2019)**
+Semana de Línguas do CAp - UFRGS
