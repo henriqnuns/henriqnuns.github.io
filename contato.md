@@ -9,5 +9,3 @@ is_contact: true
 ---
 
 ## Social
-
-1. [Instagram](#https:/instagram.com/henriqnuns)
