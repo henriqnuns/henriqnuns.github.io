@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-
+favicon: true
+favicon_location: "favicon.ico"
 
 ## Sobre mim
 
