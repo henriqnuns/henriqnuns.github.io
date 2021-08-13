@@ -9,4 +9,5 @@ is_contact: true
 ---
 
 ## Social
-* Instagram: [@henriqnuns] (https://instagram.com/henriqnuns)
+* [Instagram](https://instagram.com/henriqnuns)
+* [Last.fm](https://www.last.fm/user/henriqnuns)
