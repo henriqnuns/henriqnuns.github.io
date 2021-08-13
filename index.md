@@ -18,8 +18,6 @@ Set. 2018 - Out. 2019
 
 Professor de Inglês das turmas do terceiro e sétimo ano do fundamental, sob supervisão do Programa Institucional de Bolsas de Iniciação à Docência (PIBID) da UFRGS.
 
-Você pode acessar com mais detalhes os meus diarios de sala de aula [aqui](https://www.henriqnuns.com.br)
-
 ---
 ## Projetos de extensão
 * **A neutralidade de gênero no Português e no Inglês (2019)**
