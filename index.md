@@ -23,3 +23,9 @@ Professor de Inglês das turmas do terceiro e sétimo ano do fundamental, sob su
 **A neutralidade de gênero no Português e no Inglês (2019)**
 
 Semana de Línguas do CAp - UFRGS
+
+---
+## Áreas de interesse
+[1] Teoria Literária
+[2] Literatura Comparada
+[3] Literatura Brasileira
