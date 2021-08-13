@@ -14,20 +14,12 @@ Me interesso principalmente na área da Teoria Literária e da Literatura Compar
 ## Experiência
 Set. 2018 - Out. 2019
 
-* **Colégio de Aplicação da UFRGS (CAp)**
+**Colégio de Aplicação da UFRGS (CAp)**
 
 Professor de Inglês das turmas do terceiro e sétimo ano do fundamental, sob supervisão do Programa Institucional de Bolsas de Iniciação à Docência (PIBID) da UFRGS.
 
 ---
 ## Projetos de extensão
-* **A neutralidade de gênero no Português e no Inglês (2019)**
+**A neutralidade de gênero no Português e no Inglês (2019)**
 
 Semana de Línguas do CAp - UFRGS
-
----
-## Áreas de interesse
-[1] Teoria Literária
-
-[2] Literatura Comparada
-
-[3] Literatura Brasileira
