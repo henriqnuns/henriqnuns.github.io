@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+   link: "/https://henriqnuns.github.io/"
+ - name: "Lattes"
+   link: "http://lattes.cnpq.br/3045987981563493"
  - name: "Contact"
    link: "contact"
