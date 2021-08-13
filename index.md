@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<link rel="shortcut icon" type="image/ico" href="favicon (1).ico">
+<link rel="shortcut icon" type="image/x-icon" href="favicon (1).ico">
 
 ## Sobre mim
 
