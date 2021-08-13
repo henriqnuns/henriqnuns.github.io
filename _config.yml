@@ -1,6 +1,6 @@
 title: Henrique Nunes
 url: "https://henriqnuns.github.io/"
-baseurl: ""
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
