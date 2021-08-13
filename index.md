@@ -27,5 +27,7 @@ Semana de Línguas do CAp - UFRGS
 ---
 ## Áreas de interesse
 [1] Teoria Literária
+
 [2] Literatura Comparada
+
 [3] Literatura Brasileira
