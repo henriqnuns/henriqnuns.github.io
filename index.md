@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link rel="shortcut icon" type="image/x-icon" href="avicon (1).ico">
+
 ## Sobre mim
 
 <img class="profile-picture" src="FB_IMG_1611674150846.jpg">
