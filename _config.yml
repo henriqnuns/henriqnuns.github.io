@@ -1,13 +1,10 @@
 title: Henrique Nunes
-url: "https://henriqnuns.com.br"
-baseurl: "/"
+# url: "https://henriqnuns.com.br"
+baseurl: ""
 
 favicon: "favicon.ico"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
-
-tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
