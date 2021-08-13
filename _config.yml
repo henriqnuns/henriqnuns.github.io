@@ -2,7 +2,8 @@ title: Henrique Nunes
 # url: "https://henriqnuns.com.br"
 baseurl: ""
 
-favicon: "favicon.ico"
+favicon: true
+favicon_location: "favicon.ico"
 
 markdown: kramdown
 
