@@ -3,8 +3,7 @@ layout: default
 is_livros: true
 ---
 
-## Livros
+## Diários de sala de aula
 
-* **Mundo em Cinzas**
-* **12 meses de Lucas**
-* **Vamos para Soho e outras histórias**
+Aula [1] - 03 de Setembro de 2021
+
