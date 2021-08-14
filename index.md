@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="FB_IMG_1611674150846.jpg">
 
-Olá, seja muito bem-vinde! Eu sou o Henrique, tenho 21 anos e sou graduando do curso de Licenciatura em Letras - Português/Inglês da Universidade Federal do Rio Grande do Sul.
+Olá, seja muito bem-vinde! Eu sou o Henrique, tenho 21 anos e sou graduando do curso de Licenciatura em Letras - Português/Inglês da Universidade Federal do Rio Grande do Sul (UFRGS) e professor de Inglês.
 
 Me interesso principalmente na área da Teoria Literária e da Literatura Comparada, sobretudo nos estudos da literatura gótica e do horror.
 
