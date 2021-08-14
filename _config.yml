@@ -21,3 +21,5 @@ nav:
    link: "contato"
  - name: "EN"
    link: "en"
+ - name: "Diários"
+   link: "diarios"
