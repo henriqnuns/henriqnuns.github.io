@@ -1,6 +1,7 @@
 ---
 layout: default
-is_livros: diarios
+is_diarios: true
+
 ---
 
 ## Diários de sala de aula
