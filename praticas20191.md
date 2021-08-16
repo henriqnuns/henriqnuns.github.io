@@ -40,7 +40,7 @@ prepararam um quiz online, onde os alunos precisavam marcar corretamente
 as bandeiras de determinados países, assim como acertar a nacionalidade de
 pessoas notáveis.
 
-Quiz disponível no link: https://create.kahoot.it/share/countries-and-nacionalities/f38d509b-4761-4abe-ac90-267c2531988c
+* Quiz disponível [aqui](https://create.kahoot.it/share/countries-and-nacionalities/f38d509b-4761-4abe-ac90-267c2531988c)
 
 ### Junho
 
