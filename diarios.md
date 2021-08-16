@@ -11,7 +11,7 @@ is_diarios: true
 
 ### Colégio de Aplicação da UFRGS (CAp-UFRGS)
 * [Relatório de práticas (2019/1)](https://www.henriqnuns.com.br/praticas20191)
-* [Relatório de práticas (2019/2)](https://www.henriqnuns.com.br/aula1)
+* [Relatório de práticas (2019/2)](https://www.henriqnuns.com.br/praticas20192)
 
 ---
 ## Diários de sala de aula
