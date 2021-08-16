@@ -12,6 +12,12 @@ Me interesso principalmente na área da Teoria Literária e da Literatura Compar
 
 ---
 ## Experiência
+Set. 2021 - Atual
+
+**Escola Municipal de Ensino Fundamental Santos Dumont**
+
+Professor de Inglês para turma do 9º ano. 
+
 Set. 2018 - Out. 2019
 
 **Colégio de Aplicação da UFRGS (CAp)**
