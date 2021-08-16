@@ -4,7 +4,7 @@ is_praticas20191: true
 
 ---
 
-### Relatório de práticas no Colégio de Aplicação da UFRGS (2019/1)
+## Relatório de práticas no Colégio de Aplicação da UFRGS (2019/1)
 
 ### Fevereiro
 
