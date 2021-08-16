@@ -7,6 +7,7 @@ is_praticas20192: true
 ## Relatório de práticas no Colégio de Aplicação da UFRGS (2019/2)
 
 ### Agosto
+
 * *Encontro*: O primeiro encontro do semestre foi realizado a partir da
 necessidade de se realojar os pibidianos em cada turma. Dessa vez, deixei os
 mais jovens do oitavo ano e me juntei com a supervisora Ingrid na turma dos
