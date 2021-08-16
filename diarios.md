@@ -12,6 +12,7 @@ is_diarios: true
 ### Colégio de Aplicação da UFRGS (CAp-UFRGS)
 * [Relatório de práticas](https://www.henriqnuns.com.br/aula1)
 
+---
 ## Diários de sala de aula
 
 ### Estágio em Língua Inglesa I
