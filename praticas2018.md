@@ -6,10 +6,12 @@ is_praticas2018: true
 ## Relatório de práticas no Instituto Estadual Professora Gema Angelina Belia (2018)
 
 ### Setembro e Outubro
+
 * *Encontro*: Foram realizados encontros, entre bolsistas e a coordenadora, a fim de lermos e debatermos assuntos pertinentes para a nossa experiência no
 programa, sendo eles: Referenciais Curriculares do Rio Grande do Sul, Base Nacional Comum Curricular e PIBID em Movimento.
 
 ### Novembro
+
 * *Reunião*: Foram realizadas algumas reuniões no mês de novembro com a nossa supervisora, Carolina, que giraram em torno de decisão de turmas e
 horários para que cada bolsista conseguisse atingir pelo menos uma turma. A segunda reunião centrou-se em ideias para preparação de materiais didáticos e
 oficinas a serem realizadas com as turmas.
