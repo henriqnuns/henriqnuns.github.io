@@ -12,15 +12,16 @@ Me interesso principalmente na área da Teoria Literária e da Literatura Compar
 
 ---
 ## Experiência
-Set. 2021 - Atual
 
 **Professor de Inglês na Escola Municipal de Ensino Fundamental Santos Dumont**
 
+Set. 2021 - Atual
+
 Professor de Inglês para turma do 9º ano. 
 
-Set. 2018 - Out. 2019
-
 **Professor de Inglês no Colégio de Aplicação da UFRGS (CAp)**
+
+Set. 2018 - Out. 2019
 
 Professor de Inglês das turmas do terceiro e sétimo ano do fundamental, sob supervisão do Programa Institucional de Bolsas de Iniciação à Docência (PIBID) da UFRGS.
 
