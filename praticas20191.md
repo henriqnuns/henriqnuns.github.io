@@ -16,7 +16,7 @@ partir das leituras estipuladas.
 
 ### Abril
 
-* *Encontro*: Primeira reunião com a professora Ingrid Kuchenbecker, no Colégio
+* *Encontro*: Primeira reunião com a professora Ingrid K., no Colégio
 de Aplicação, realizada no dia 11. Foram estipuladas as turmas e os horários
 de cada bolsista. Dessa vez, minha dupla era a colega Carla e juntos nos
 unimos à turma 81, dos alunos do sétimo ano.
