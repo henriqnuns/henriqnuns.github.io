@@ -49,7 +49,7 @@ pibidianos do CAp (Colégio de Aplicação), a fim de trabalharmos em um projeto
 inicial de apresentação/oficina a ser realizada na Semana de Línguas do CAp,
 que envolve os alunos de todos os níveis escolares.
 
-### Semana de Línguas
+#### Semana de Línguas
 
 * *Objetivo*: A partir de um panorama sobre neutralidade de gênero e os gêneros
 gramaticais, levar os alunos a se questionar sobre o que é, por que usamos, como usamos e os desafios de se implementar – e usar – tal linguagem em sala de aula.
