@@ -7,8 +7,10 @@ is_diarios: true
 ## Diários do PIBID
 
 ### Instituto Estadual Professora Gema Angelina Belia
+* [Relatório de práticas](https://www.henriqnuns.com.br/aula1)
 
 ### Colégio de Aplicação da UFRGS (CAp-UFRGS)
+* [Relatório de práticas](https://www.henriqnuns.com.br/aula1)
 
 ## Diários de sala de aula
 
