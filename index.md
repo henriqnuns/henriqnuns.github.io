@@ -28,6 +28,7 @@ Professor de Inglês das turmas do terceiro e sétimo ano do fundamental, sob su
 ---
 ## Publicações
 **Introdução à poesia e ao Formalismo Russo em sala de aula**
+
 Revista Bem Legal, vol. 11, No. 2 - 2021
 
 ---
