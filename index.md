@@ -26,6 +26,11 @@ Set. 2018 - Out. 2019
 Professor de Inglês das turmas do terceiro e sétimo ano do fundamental, sob supervisão do Programa Institucional de Bolsas de Iniciação à Docência (PIBID) da UFRGS.
 
 ---
+## Publicações
+**Introdução à poesia e ao Formalismo Russo em sala de aula**
+Revista Bem Legal, vol. 11, No. 2 - 2021
+
+---
 ## Projetos de extensão
 **A neutralidade de gênero no Português e no Inglês (2019)**
 
