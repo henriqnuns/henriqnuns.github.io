@@ -22,6 +22,10 @@ Professor de Inglês das turmas do terceiro e sétimo ano do fundamental, sob su
 ---
 ## Produções bibliográficas
 
+**O fracasso como construção social de personagens na literatura brasileira contemporânea**
+
+[Revista Opiniães, vol. 07, No. 1 (2022)](http://www.ufrgs.br/revistabemlegal/edicoes-anteriores/vol.-11-no.-1-2021/writing-the-personal-statement)
+
 **Introdução à poesia e ao Formalismo Russo na sala de aula**
 
 [Revista Bem Legal, vol. 11, No. 2 (2021)](http://www.ufrgs.br/revistabemlegal/edicoes-anteriores/vol.-11-no.-1-2021/writing-the-personal-statement)
