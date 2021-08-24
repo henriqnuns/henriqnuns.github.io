@@ -13,16 +13,6 @@ Me interesso principalmente na área da Teoria Literária e da Literatura Compar
 ---
 ## Experiência
 
-**Bolsista de Iniciação Científica**
-Set. 2021 - Atual
-
-Narrativas e discursos da literatura LGBTQIA+ contemporânea
-
-**Professor de Inglês na Escola Santos Dumon**
-Set. 2021 - Atual
-
-Professor de Inglês das turmas de oitavo ano do fundamental, como parte do estágio obrigatório curricular.
-
 **Professor de Inglês no Colégio de Aplicação da UFRGS (CAp)**
 
 Set. 2018 - Out. 2019
