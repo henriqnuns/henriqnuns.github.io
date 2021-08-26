@@ -19,19 +19,6 @@ Set. 2018 - Out. 2019
 
 Professor de Inglês das turmas do terceiro e sétimo ano do fundamental, sob supervisão do Programa Institucional de Bolsas de Iniciação à Docência (PIBID) da UFRGS.
 
-## Publicações
-**O fracasso como construção social do gênero e identidade na literatura brasileira contemporânea**
-
-Revista Estudos de Literatura Brasileira Contemporânea, No. 63 (2022)
-
-**A literatura do eu e a autoficção em "Amora"**
-
-Revista Opiniães, No. 18 (2022)
-
-**Introdução à Poesia e ao Formalismo Russo em sala de aula**
-
-Revista Bem Legal, Vol. 11, No. 2 (2021)
-
 ---
 ## Projetos de extensão
 
