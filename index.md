@@ -12,13 +12,6 @@ Me interesso principalmente na área da Teoria Literária e da Literatura Compar
 
 ---
 ## Experiência
-
-**Professor de Inglês no Centro de Língua para fins Acadêmicos (CLA)**
-
-Set. 2021 - Dez. 2021
-
-Professor para turmas de universitários iniciantes na língua inglesa, como parte do estágio obrigatório curricular.
-
 **Professor de Inglês no Colégio de Aplicação da UFRGS (CAp)**
 
 Set. 2018 - Out. 2019
