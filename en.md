@@ -12,9 +12,13 @@ I'm mostly interested in the literary theory and comparative literature fields, 
 
 ---
 ## Experience
-Sep. 2018 - Oct. 2019
+**Language Center for Academic Purposes (CLA-UFRGS)**
+
+English teacher of the "Interactions in Academic Contexts" (A1) course, as part of the mandatory teaching practice.
 
 **College of Application - UFRGS**
+
+Sep. 2018 - Oct. 2019
 
 English teacher in third and seventh grade of elementary school, under the supervision of the Institutional Scholarship Program Initiation to Teaching (PIBID)
 
