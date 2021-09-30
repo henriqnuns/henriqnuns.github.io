@@ -13,7 +13,7 @@ Me interesso principalmente na área da Teoria Literária e da Literatura Compar
 
 ---
 ## Experiência
-**Professor de Inglês no Centro de Línguas para fins Acadêmicos (CLA-UFRGS)
+**Professor de Inglês no Centro de Línguas para fins Acadêmicos (CLA-UFRGS)**
 
 Out. 2021 -
 
