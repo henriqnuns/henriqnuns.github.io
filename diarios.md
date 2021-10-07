@@ -6,7 +6,7 @@ is_diarios: true
 ## Diários de Estágio
 
 ### Centro de Línguas para Fins Acadêmicos (CLA-UFRGS)
-* [Relatório de Estágio em Língua Inglesa I (2021/1)](https://www.henriqnuns.com.br/encurricular1)
+* [Relatório de Estágio em Língua Inglesa I (2021/1)](https://henriqnuns.com.br/estagioingles1)
 
 ## Diários do PIBID
 
