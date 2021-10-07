@@ -8,7 +8,7 @@ layout: default
 
 Olá, seja muito bem-vinde! Eu sou o Henrique, tenho 21 anos, sou graduando do curso de Licenciatura em Letras - Português/Inglês da Universidade Federal do Rio Grande do Sul (UFRGS) e Bolsista de Iniciação Científica no projeto "Textualidades Inquietas: entre os frutos estranhos e as expansões contemporâneas".
 
-Me interesso principalmente na área da Teoria da Literatura e da Literatura Comparada, assim como nos estudos de literatura brasileira contemporânea..
+Me interesso principalmente na área da Teoria da Literatura e da Literatura Comparada, assim como nos estudos de literatura brasileira contemporânea.
 
 ---
 ## Experiência em Sala de Aula
