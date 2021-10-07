@@ -15,8 +15,6 @@ sass:
 nav:
  - name: "Sobre"
    link: "/"
- - name: "Publicacões"
-   link: "publicacoes"
  - name: "Lattes"
    link: "http://lattes.cnpq.br/3045987981563493"
  - name: "Diários"
