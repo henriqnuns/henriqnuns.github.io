@@ -32,7 +32,7 @@ Set. 2021 -
 
 Bolsista de Iniciação Científica no projeto "Textualidades Inquietas: entre os frutos estranhos e as expansões contemporâneas".
 
---
+---
 ## Projetos de extensão
 
 **A neutralidade de gênero no Português e no Inglês (2019)**
