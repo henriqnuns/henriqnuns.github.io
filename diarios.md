@@ -3,6 +3,10 @@ layout: default
 is_diarios: true
 
 ---
+## Diários de Estágio
+
+### Centro de Línguas para Fins Acadêmicos (CLA-UFRGS)
+* [Relatório de Estágio em Língua Inglesa I)](https://www.henriqnuns.com.br/encurricular1)
 
 ## Diários do PIBID
 
