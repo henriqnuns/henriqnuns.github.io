@@ -15,6 +15,7 @@ I'm mostly interested in the literary theory and comparative literature fields, 
 **Language Center for Academic Purposes (CLA-UFRGS)**
 
 Oct. 2021 -
+
 English teacher of the "Interactions in Academic Contexts" (A1) course, as part of the mandatory teaching practice.
 
 **College of Application - UFRGS**
