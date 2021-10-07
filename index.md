@@ -11,7 +11,7 @@ Olá, seja muito bem-vinde! Eu sou o Henrique, tenho 21 anos, sou graduando do c
 Me interesso principalmente na área da Teoria da Literatura e da Literatura Comparada, assim como nos estudos de literatura brasileira contemporânea..
 
 ---
-## Experiência
+## Experiência em Sala de Aula
 **Centro de Línguas para fins Acadêmicos (CLA-UFRGS)**
 
 Out. 2021 -
@@ -25,6 +25,14 @@ Set. 2018 - Out. 2019
 Professor de Inglês das turmas do terceiro e sétimo ano do fundamental, sob supervisão do Programa Institucional de Bolsas de Iniciação à Docência (PIBID) da UFRGS.
 
 ---
+## Experiência em Pesquisa
+**Universidadede Federal do Rio Grande do Sul (UFRGS)**
+
+Set. 2021 -
+
+Bolsista de Iniciação Científica no projeto "Textualidades Inquietas: entre os frutos estranhos e as expansões contemporâneas".
+
+--
 ## Projetos de extensão
 
 **A neutralidade de gênero no Português e no Inglês (2019)**
