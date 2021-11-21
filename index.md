@@ -14,7 +14,7 @@ Me interesso principalmente na área da Teoria da Literatura e da Literatura Com
 ## Experiência em Sala de Aula
 **Centro de Línguas para fins Acadêmicos (CLA-UFRGS)**
 
-Out. 2021 -
+Out. 2021 - Nov. 2021
 
 Professor de Inglês do curso de Interações em Contexto Acadêmico (A1) como parte do Estágio Curricular Obrigatório.
 
