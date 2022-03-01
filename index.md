@@ -33,8 +33,8 @@ Set. 2021 -
 Bolsista de Iniciação Científica no projeto "Textualidades Inquietas: entre os frutos estranhos e as expansões contemporâneas".
 
 ---
-## Projetos de extensão
+## Publicações
 
-**A neutralidade de gênero no Português e no Inglês (2019)**
+**Photographic Imaginary: Visual and Written Narratives**
 
-Semana de Línguas do CAp - UFRGS
+BOCARDI, C. S.; NUNES JÚNIOR, P. H. C.; SILVA, C. G. **Photographic Imaginary: Visual and Written Narratives**. Revista Bem Legal, Vol. 11, No. 2 (2021)
