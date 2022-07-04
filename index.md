@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="FB_IMG_1611674150846.jpg">
 
-Olá, seja muito bem-vinde! Eu sou o Henrique, tenho 21 anos, sou graduando do curso de Licenciatura em Letras - Português/Inglês da Universidade Federal do Rio Grande do Sul (UFRGS) e Bolsista de Iniciação Científica no projeto "Textualidades Inquietas: entre os frutos estranhos e as expansões contemporâneas".
+Olá, seja muito bem-vinde! Eu sou o Henrique, tenho 22 anos, sou graduando do curso de Licenciatura em Letras - Português/Inglês da Universidade Federal do Rio Grande do Sul (UFRGS) e Bolsista de Iniciação Científica no projeto "Textualidades Inquietas: entre os frutos estranhos e as expansões contemporâneas".
 
 Me interesso principalmente na área da Teoria da Literatura e da Literatura Comparada, assim como nos estudos de literatura brasileira contemporânea.
 
@@ -16,7 +16,7 @@ Me interesso principalmente na área da Teoria da Literatura e da Literatura Com
 
 Out. 2021 - Nov. 2021
 
-Professor de Inglês do curso de Interações em Contexto Acadêmico (A1) como parte do Estágio Curricular Obrigatório.
+Professor de Inglês do curso de Interações em Contexto Acadêmico (A1) como parte do Estágio Curricular Obrigatório em Língua Inglesa I.
 
 **Colégio de Aplicação da UFRGS (CAp)**
 
