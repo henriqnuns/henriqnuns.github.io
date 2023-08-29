@@ -28,7 +28,13 @@ English teacher in third and seventh grade of elementary school, under the super
 ## Research Experience
 **Federal University of Rio Grande do Sul (UFRGS)**
 
-Sep. 2021 - 
+Sep. 2022 - Aug. 2023
+
+Bolsista de Iniciação Científica no projeto "Comparative Literature Literary Theory: Paths and Epistemological Transits of the South".
+
+**Federal University of Rio Grande do Sul (UFRGS)**
+
+Sep. 2021 - Aug. 2022
 
 Scientific Initiation Scholarship in the project "Uneasy Textualities: between strange fruits and contemporary expansions".
 
