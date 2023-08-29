@@ -4,6 +4,7 @@ is_publicacoes: true
 
 ---
 ## Publicações
+[Nunes Júnior, Paulo Henrique Cunha. Os andares e os pesares: a literatura de si e a autoficção em 'Amora'. In: **Salão UFRGS 2022: SIC - XXXIV SALÃO DE INICIAÇÃO CIENTÍFICA DA UFRGS**, 2022, Porto Alegre. XXXIV Salão de Iniciação Científica - 2022, 2022.](https://www.lume.ufrgs.br/handle/10183/260827).
 
 [BOCARDI, C. S.; NUNES JÚNIOR, P. H. C.; SILVA, C. G. **Photographic Imaginary: Visual and Written Narratives**. Revista Bem Legal, Vol. 11, No. 2 (2021)](http://www.ufrgs.br/revistabemlegal/edicoes-anteriores/vol.-11-no.-2-2021/photographic-imaginary-visual-and-written-narratives)
 
