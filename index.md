@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="FB_IMG_1611674150846.jpg">
 
-Olá, seja muito bem-vinde! Eu sou o Henrique, tenho 22 anos, sou graduando do curso de Licenciatura em Letras - Português/Inglês da Universidade Federal do Rio Grande do Sul (UFRGS) e Bolsista de Iniciação Científica no projeto "Textualidades Inquietas: entre os frutos estranhos e as expansões contemporâneas".
+Olá, seja muito bem-vinde! Eu sou o Henrique, tenho 23 anos, sou graduando do curso de Licenciatura em Letras - Português/Inglês da Universidade Federal do Rio Grande do Sul (UFRGS) e Bolsista de Iniciação Científica no projeto "Literatura Comparada e Teoria Literária: Percursos e Trânsitos Epistemológicos do Sul".
 
 Me interesso principalmente na área da Teoria da Literatura e da Literatura Comparada, assim como nos estudos de literatura brasileira contemporânea.
 
@@ -28,7 +28,13 @@ Professor de Inglês das turmas do terceiro e sétimo ano do fundamental, sob su
 ## Experiência em Pesquisa
 **Universidadede Federal do Rio Grande do Sul (UFRGS)**
 
-Set. 2021 -
+Set. 2022 - 2023
+
+Bolsista de Iniciação Científica no projeto "Literatura Comparada e Teoria Literária: Percursos e Trânsitos Epistemológicos do Sul".
+
+**Universidadede Federal do Rio Grande do Sul (UFRGS)**
+
+Set. 2021 - 2022
 
 Bolsista de Iniciação Científica no projeto "Textualidades Inquietas: entre os frutos estranhos e as expansões contemporâneas".
 
@@ -36,6 +42,8 @@ Bolsista de Iniciação Científica no projeto "Textualidades Inquietas: entre o
 ## Publicações
 
 **Photographic Imaginary: Visual and Written Narratives**
+
+Nunes Junior, Paulo Henrique Cunha. Os andares e os pesares: a literatura de si e a autoficção em 'Amora'. In: Salão UFRGS 2022: SIC - XXXIV SALÃO DE INICIAÇÃO CIENTÍFICA DA UFRGS, 2022, Porto Alegre. XXXIV Salão de Iniciação Científica - 2022, 2022.
 
 BOCARDI, C. S.; NUNES JÚNIOR, P. H. C.; SILVA, C. G. **Photographic Imaginary: Visual and Written Narratives**. Revista Bem Legal, Vol. 11, No. 2 (2021)
 
