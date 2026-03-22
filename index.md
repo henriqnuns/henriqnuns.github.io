@@ -12,6 +12,12 @@ Me interesso principalmente na área da Teoria da Literatura e da Literatura Com
 
 ---
 ## Experiência em Sala de Aula
+**Escola de Ensino Médio Margot Giacomazzi**
+
+Mar. 2024 - atualmente
+
+Professor de Inglês, Literatura e Redação em todos os três anos do Ensino Médio regular público.
+
 **Centro de Línguas para fins Acadêmicos (CLA-UFRGS)**
 
 Out. 2021 - Nov. 2021
