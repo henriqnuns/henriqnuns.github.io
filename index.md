@@ -4,7 +4,7 @@ layout: default
 
 ## Sobre mim
 
-<img class="profile-picture" src="FIMG_9291.jpeg">
+<img class="profile-picture" src="IMG_9291.jpeg">
 
 Olá, seja muito bem-vinde! Eu sou o Henrique, tenho 23 anos, sou graduando do curso de Licenciatura em Letras - Português/Inglês da Universidade Federal do Rio Grande do Sul (UFRGS) e Bolsista de Iniciação Científica no projeto "Literatura Comparada e Teoria Literária: Percursos e Trânsitos Epistemológicos do Sul".
 
