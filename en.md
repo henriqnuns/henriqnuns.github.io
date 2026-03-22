@@ -4,11 +4,10 @@ layout: default
 
 ## About
 
-<img class="profile-picture" src="FB_IMG_1611674150846.jpg">
+<img class="profile-picture" src="henriqnuns.github.io">
 
-Welcome, I'm Henrique! I'm a 20 year old undergraduate of the Linguistics & Literature program at the Federal University of Rio Grande do Sul (UFRGS), in Brazil. I'm a Scientific Initiation Scholarship student in the project "Uneasy Textualities: between strange fruits and contemporary expansions".
-
-I'm mostly interested in the literary theory and comparative literature fields, especially in studies of Gothic literature and horror.
+English, Literature and Essay Writing Teacher at Margot Giacomazzi High School, Brazil.
+Comparative Literature and Theory of Literature researcher.
 
 ---
 ## Teaching Experience
